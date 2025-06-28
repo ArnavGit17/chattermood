@@ -31,18 +31,6 @@ Whether you're venting, vibing, or just vibing low-key, ChatterMood senses the e
 
 ---
 
-## 🖼️ Screenshots
-
-### 💬 Chat Interface
-![Chat UI](./screenshots/chatUI.png)
-
-### 🔥 Firestore Integration
-![Firestore](./screenshots/firestore-data.png)
-
-### ☁️ Live on Firebase Hosting
-![Firebase Hosting](./screenshots/firebase-hosting.png)
-
----
 
 ## 🧠 How It Works (Behind the Scenes)
 
